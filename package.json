@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "babel": "^6.3.26",
+    "babel-polyfill": "^6.3.14",
     "history": "^1.17.0",
     "isomorphic-fetch": "^2.2.1",
     "react": "^0.14.6",
@@ -26,6 +27,7 @@
     "babel-preset-es2015": "^6.3.13",
     "babel-preset-react": "^6.3.13",
     "babel-preset-stage-2": "^6.3.13",
+    "babel-register": "^6.4.3",
     "babel-runtime": "^6.3.19",
     "webpack": "^1.12.11",
     "webpack-dev-server": "^1.14.1"
