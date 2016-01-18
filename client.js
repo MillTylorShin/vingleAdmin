@@ -13,6 +13,6 @@ export default (() => {
  // Flushing application to DOM
  React.render(
    <Router history={history} children={routes} />,
-   document.getElementById('pengyou')
+   document.getElementById('vingle')
  );
 })();
